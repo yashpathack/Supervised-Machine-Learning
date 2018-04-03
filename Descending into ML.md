@@ -11,5 +11,12 @@ Now, this is a stamdard slope equation y = mx + c. In this case we have w i.e we
 Here we can obviously see that there is loss. The red vertical lines from the main blue line is loss. it maybe positive or negative.<br>
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/4.png)<br>
 
+Now how to calculate loss?
+Let's start with the basic L<sub>2</sub> loss.
+It is given by: 
+![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/5.png)<br>
 
+= Square of the difference between prediction and label
+= (observation - prediction)2
+= (y - y')2
 
