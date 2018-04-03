@@ -10,8 +10,11 @@ Training a model means to create a model. You help it learn by showing examples 
 #### Inference
 Inference means to use the trained model for unlableled examples for predicting useful predictions.
 
-### Regression adn Classification Model
-A regression model predicts continuous values. Eg: What is the value of a house in California? What is the probability that a user will click on this ad?
+### Regression and Classification Model
+A regression model predicts continuous values. 
+Eg: What is the value of a house in California? What is the probability that a user will click on this ad?
 
+A classification model predicts discrete values. For example, classification models make predictions that answer questions like the following:
+Eg: Is a given email message spam or not spam? Is this an image of a dog, a cat, or a hamster?
 
  
