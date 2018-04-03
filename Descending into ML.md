@@ -15,6 +15,8 @@ Now how to calculate loss?
 Let's start with the basic L<sub>2</sub> loss.
 It is given by: 
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/5.png)<br>
+![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/7.png)<br>
+
 = Square of the difference between prediction and label
 = (observation - prediction)2
 = (y - y')2
