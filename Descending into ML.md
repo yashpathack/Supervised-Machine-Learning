@@ -22,4 +22,4 @@ It is given by:
 = (y - y')2
 
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/6.png)<br>
-
+Little did i know, this thing is called linear regression.
