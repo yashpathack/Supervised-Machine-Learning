@@ -19,6 +19,10 @@ b is called the bias(the y intercept). Sometimes it may be referred to as w<sub>
 w<sub>1</sub> is the weight of the featur 1. Weight is same as slope. 
 x<sub>1</sub> is a feature (a known input)
 
+To infer(predict) the temperature in y' for new chirps per min value x1, just plug the x1 value into the model
+The subscripts (for example, w1 and x1) foreshadow more sophisticated models that rely on multiple features. For example, a model that relies on three features would use the following equation: 
+y1 = b + w1x1 + w2x2 + w3x3
+
 
 
 
