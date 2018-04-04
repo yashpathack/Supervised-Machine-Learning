@@ -10,6 +10,7 @@ So what we want to do is find the set of weights and biases that have a low loss
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/10.png)<br>
 > The red arrow represents loss.
 > The blue line represents predictions.
+Higher loss in left modell. Low loss in the right model
 
 
 
