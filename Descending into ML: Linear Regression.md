@@ -14,7 +14,10 @@ b = the y intercept
 
 But for ML we're gonna use some slightly different notions, hence reframing it as:
 y' = b + w<sub>1</sub>x<sub>1</sub>
-
+y = predicted label (the desired output)
+b is called the bias(the y intercept). Sometimes it may be referred to as w<sub>0</sub>
+w<sub>1</sub> is the weight of the featur 1. Weight is same as slope. 
+x<sub>1</sub> is a feature (a known input)
 
 
 
