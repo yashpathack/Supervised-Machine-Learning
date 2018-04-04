@@ -8,7 +8,7 @@ Now let's draw a line through the most probable regions in the graph. A straight
 Now, this is a stamdard slope equation y = mx + c. In this case we have w i.e weights. And b is the distance from origin to the outgrowth of the blue line<br>
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/3.png)<br>
 
-Here we can obviously see that there is loss. The red vertical lines from the main blue line is loss. it maybe positive or negative.<br>
+Here we can obviously see that there is loss. The red vertical lines from the main blue line is loss. it maybe positive or negative. But magnitude of loss is either zero or more.<br>
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/4.png)<br>
 
 Now how to calculate loss?
