@@ -20,7 +20,7 @@ The red arrows in the left model are much longer than their counterparts in the 
   = (observation - prediction(x))2
   = (y - y')2 <br>
   
- ## The Mean Square error (MSE) 
+ ## The Mean Square error (MSE) <br>
   ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/11.png)<br>
 <br>
   
@@ -28,13 +28,13 @@ Mean square error (MSE) is the average squared loss per example. To calculate MS
 
 where:
 
- (x,y) is an example in which
- x is the set of features (for example, chirps/minute, age, gender) that the model uses to make predictions.
- y is the example's label (for example, temperature).
- __prediction(x)__ is a function of the weights and bias in combination with the set of features x.
- __D__ is a data set containing many labeled examples, which are (x,y) pairs.
- __N__ is the number of examples in D
- MSE is commonly-used in machine learning, it is neither the only practical loss function nor the best loss function for all circumstances.
+ (x,y) is an example in which <br>
+ x is the set of features (for example, chirps/minute, age, gender) that the model uses to make predictions.<br>
+ y is the example's label (for example, temperature).<br>
+ __prediction(x)__ is a function of the weights and bias in combination with the set of features x.<br>
+ __D__ is a data set containing many labeled examples, which are (x,y) pairs.<br>
+ __N__ is the number of examples in D<br>
+ MSE is commonly-used in machine learning, it is neither the only practical loss function nor the best loss function for all circumstances.<br>
  
 
 
