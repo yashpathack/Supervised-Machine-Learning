@@ -1,3 +1,4 @@
+# Linear Regression
 Case: Crickets chirp more frequently on hotter days than on cooler days. For decades, professional and amateur entomologists (Those who study insects) have cataloged data on chirps-per-minute and temperature
 Let's observe a graph based on this chirping and temperature in celsius.<br>
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/8.png)
