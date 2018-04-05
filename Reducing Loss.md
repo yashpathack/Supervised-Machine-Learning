@@ -1,4 +1,4 @@
-# Training a model using an iterative approach
+# Training a model using an Iterative Approach
 How to chose a set of model parameters?<br>
 We need a direction to go into parameter space. To minimize the loss.<br>
 One way is to compute the gradient i.e the derivative of the loss function with the model parameter. <br>
