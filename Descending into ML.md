@@ -1,3 +1,4 @@
+# Descending into ML
 Model is something that learns from data.
 Let's take an example in here. Here we have a data with inputs along x axis and the outputs denoted as the blueish dots.<br>
 ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/1.png)<br>
