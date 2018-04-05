@@ -1,3 +1,4 @@
+Format: 
 <code>labeled examples: {features, label}: (x, y)</code>
 <code>  unlabeled examples: {features, ?}: (x, ?)</code>
 
