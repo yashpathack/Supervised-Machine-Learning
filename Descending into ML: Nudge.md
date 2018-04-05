@@ -5,6 +5,6 @@
 #### Why not left?<br>
 > ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/13.png)<br>
 
-### Why right?<br>
+#### Why right?<br>
 > ![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/14.png)<br>
 
