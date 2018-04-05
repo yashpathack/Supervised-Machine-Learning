@@ -9,9 +9,9 @@ One way is to compute the gradient i.e the derivative of the loss function with 
 > So we repeatedly take small steps in the direction that minimizes loss<br>
 > We call these Gradient Steps (But they're really negative Gradient Steps)<br>
 > This optimization strategy is called Gradient Descent<br>
+![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/15.png)
 >> Data comes in, we compute the gradient of the loss function on that data.
 	The negative gradient tells us in which direction to update model parameters
 	in order to reduce loss. We take a step in that direction,
 	get a new version of the model, and now we can recompute the gradient and repeat.
-	Pretend in one dimension, this is our loss function.
-	It maps our single model parameter theta to the loss.
+	
