@@ -15,3 +15,13 @@ One way is to compute the gradient i.e the derivative of the loss function with 
 	in order to reduce loss. We take a step in that direction,
 	get a new version of the model, and now we can recompute the gradient and repeat.
 	
+> 	Pretend in one dimension, this is our loss function.
+It maps our single model parameter theta to the loss.
+If we start off at a random value or initialization for theta
+then we achieve a corresponding loss.
+We can then compute the negative gradient which tells us
+in which direction we should go in order to minimize the loss.
+If we take a gradient step in that direction we get a new loss.
+We can keep taking gradient steps in that direction until we've reached a point
+in which we have passed the local minimum, in which the
+negative gradient will tell us to go back in the direction t
