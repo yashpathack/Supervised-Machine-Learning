@@ -15,7 +15,7 @@ One way is to compute the gradient i.e the derivative of the loss function with 
 	in order to reduce loss. We take a step in that direction,
 	get a new version of the model, and now we can recompute the gradient and repeat.
 	
-![alt text]()
+![alt text](https://github.com/yashpathack/Supervised-Machine-Learning/blob/master/Resources/Reducing%20Loss/image.png)
 > 	
 Pretend in one dimension, this is our loss function.
 It maps our single model parameter theta to the loss.
