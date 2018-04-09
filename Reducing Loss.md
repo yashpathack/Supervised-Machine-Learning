@@ -15,7 +15,9 @@ One way is to compute the gradient i.e the derivative of the loss function with 
 	in order to reduce loss. We take a step in that direction,
 	get a new version of the model, and now we can recompute the gradient and repeat.
 	
-> 	Pretend in one dimension, this is our loss function.
+![alt text]()
+> 	
+Pretend in one dimension, this is our loss function.
 It maps our single model parameter theta to the loss.
 If we start off at a random value or initialization for theta
 then we achieve a corresponding loss.
